@@ -1,17 +1,41 @@
-# apple_notes_signin
+# Apple Notes Welcome Screen
 
-A new Flutter project.
+This is a fun project created in just 1 hour, inspired by a beautiful design by [Kumail Nanji](https://x.com/KumailNanji). You can find the original design tweet [here](https://x.com/KumailNanji/status/1816452339068510275).
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](screenshots/screenshot1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Custom font integration
+- Gradient overlay on background image
+- Responsive and clean UI design
+- Elevated button with custom styles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# apple-notes-login-flutter
+## Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/apple-notes-welcome-screen.git
+   cd apple-notes-welcome-screen
+
+2. **Install dependencies:**
+    flutter pub get
+
+3. **Run the app:**
+    flutter run
+
+# How It Works
+This project demonstrates how to create a visually appealing welcome screen using Flutter. It includes:
+
+- Background Image: A full-screen background image with a gradient overlay.
+- Custom Font: Integration of a custom font (SFProDisplay).
+- Styled Text and Button: Clean and modern text styling along with a custom-styled button.
+
+# Credits
+Design by: Kumail Nanji
+Developed by: cocolocow
+
+# Contribution
+Feel free to contribute to this project by submitting a pull request or opening an issue.
